@@ -7,3 +7,9 @@ Video how to deploy it:
 https://youtu.be/E1dqffpUlMA
 ## Credits
 Template was created by Tenzin Phuljung and edited by Jakob Wolitzki.
+
+
+$ heroku login
+$ git add .
+$ git commit -am "make it better"
+$ git push heroku main
